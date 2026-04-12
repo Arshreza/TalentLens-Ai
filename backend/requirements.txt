@@ -1,0 +1,11 @@
+# TalentLens AI — Backend Requirements
+# Run: pip install -r requirements.txt
+
+fastapi
+uvicorn[standard]
+sentence-transformers
+scikit-learn
+pandas
+python-multipart
+pypdf
+python-docx
